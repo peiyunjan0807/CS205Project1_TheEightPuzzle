@@ -12,11 +12,11 @@ Solving the classic 8 puzzle problem using three search algorithms:
 
 ## Example of this project?
 
-    1. Start the Solver
-        ```bash
-        Welcome to my 8‐Puzzle Solver. Type '1' to use a default puzzle, or '2' to create your own.
-        2
-        ```
+1. Start the Solver
+    ```
+    Welcome to my 8‐Puzzle Solver. Type '1' to use a default puzzle, or '2' to create your own.
+    2
+    ```
     2. Enter a Custom Puzzle
         ```
         Enter your puzzle, using a zero to represent the blank.
