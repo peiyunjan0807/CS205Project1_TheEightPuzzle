@@ -1,6 +1,7 @@
 # CS205Project1_TheEightPuzzle
 
 **CS205: Introduction to Artificial Intelligence — Project 1**
+
 Solving the classic 8 puzzle problem using three search algorithms:
 - Uniform Cost Search
 - A* with the Misplaced Tile heuristic
